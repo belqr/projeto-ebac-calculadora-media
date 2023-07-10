@@ -8,7 +8,7 @@
 <br>
 
 <p align="center">
-  <img alt="Adotar é um ato de amor" src="./images/image.png" width="100%">
+  <img alt="Calculadora de médias" src="./images/image.png" width="100%">
 </p>
 
 ## Tecnologias
